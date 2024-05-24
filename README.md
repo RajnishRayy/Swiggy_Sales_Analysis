@@ -1,13 +1,17 @@
-#Swiggy Sql Case Study
-#About
+
+# Swiggy Sql Case Study
+
+
+
+
+
+## About
 This project aims to explore the Swiggy Sales data to understand top performing restaurants and items, sales trend of of different items, customer behaviour. The aims is to study how sales strategies can be improved and optimized.
+
 The dataset came with set of problems/questions. I have used various functions like (SELECT,WHERE,GROUP BY, HAVING, ORDER BY, JOINS) to query the required data from the dataset.
-
-Purposes Of The Project
-The major aim of thie project is to gain insight into the sales data of Swiggy to understand the different factors that affect sales of the different restaurants
-
-
-#Important Questions/Problems
+## Purpose Of The Project
+The major aim of thie project is to gain insight into the sales data of Swiggy to understand the different factors that affect sales of the different restaurants.
+## Questions Covered In This Project
 1. HOW MANY RESTAURANTS HAVE A RATING GREATER THAN 4.5?
 2. WHICH IS THE TOP 1 CITY WITH THE HIGHEST NUMBER OF RESTAURANTS?
 3. HOW MANY RESTAURANTS HAVE THE WORD "PIZZA" IN THEIR NAME?
@@ -23,5 +27,4 @@ The major aim of thie project is to gain insight into the sales data of Swiggy t
 13. WHICH IS THE RESTAURANT PROVIDING THE LOWEST AVERAGE PRICE FOR ALL ITEMS?
 14. WHICH TOP 5 RESTAURANT OFFERS HIGHEST NUMBER OF CATEGORIES?
 15. WHICH RESTAURANT PROVIDES THE HIGHEST PERCENTAGE OF NON-VEGEATARIAN FOOD?
-
 
